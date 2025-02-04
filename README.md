@@ -1,16 +1,3 @@
-# weatherapplicationz
+Minimalistic Weather App focuses on providing essential weather information in a clean, simple, and user-friendly interface. The app should display basic weather details such as temperature, humidity, wind speed, and weather conditions (sunny, cloudy, rainy, etc.), with an intuitive design that avoids unnecessary distractions.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/68d5e090-c3bf-419f-80df-efb3313e71d2)
